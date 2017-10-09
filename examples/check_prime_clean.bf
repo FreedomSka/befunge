@@ -1,5 +1,5 @@
 v NUM[0]> :#,_@
-9 DIV[H]^"Not Prime"@#<
+9 DIV[0]^"Not Prime"@#<
 1>$261p>60g61g%#@#v_#@^
 +pv_v#   -g16-1g06<
 :06 >$   "emirP"v
